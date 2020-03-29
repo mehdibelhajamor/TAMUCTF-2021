@@ -9,7 +9,7 @@ He says that we have to select an option. Let's select the first option "Enter p
 
 ![3](https://user-images.githubusercontent.com/62826765/77844942-92d08080-71a2-11ea-8a0a-e798d71139c8.png)
 
-So we have to enter a password to connect, but we don't have any password !
+So we have to enter a password to login, but we don't have any password !
 Then, let's try to reset it :
 
 ![4](https://user-images.githubusercontent.com/62826765/77845037-7c76f480-71a3-11ea-89d2-91e07c768897.png)
