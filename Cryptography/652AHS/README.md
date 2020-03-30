@@ -14,7 +14,7 @@ Then, let's try to reset it :
 
 ![4](https://user-images.githubusercontent.com/62826765/77845037-7c76f480-71a3-11ea-89d2-91e07c768897.png)
 
-So to prove our identity and and reset the password, we have to answer the following 20 yes/no security questions. But are we going to bruteforce 2^20 possibilities ?! Naaah ofc not :D
+So to prove our identity and reset the password, we have to answer the following 20 yes/no security questions. But are we going to bruteforce 2^20 possibilities ?! Naaah ofc not :D
 
 We try to send "Yes" or "No" to some questions, we notice that sometimes it doesn't take the same time to pass to the next question, it means that he is comparing the answer to something, which leads us to the Timing Attack ! (https://en.wikipedia.org/wiki/Timing_attack)
 
