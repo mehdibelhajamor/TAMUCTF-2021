@@ -11,6 +11,7 @@ We go back to the title, Sigma's symbol is the symbol of sum that we use in Math
 We do 208-103 = 105 which is the ASCII of "i" and 311-208 = 103 which is the ASCII of "g" ...
 
 So we write a script:
+
 """
 sigma = [103,208,311,412,521,644,754,805,923,974,1088,1183,1284,1402,1520,1571,1685,1780,1894,1942,1991,2099,
 	 2194,2315,2416,2530,2578,2697,2807,2902,3001,3115,3236,3348,3464,3575,3686,3734,3782,3893,4004,4129]
@@ -21,6 +22,7 @@ for i in range(len(sigma)-1):
 
 print flag
 """
+
 And here we are :
 
 ![1](https://user-images.githubusercontent.com/62826765/77846626-450e4500-71af-11ea-9c88-9197163e0779.png)
