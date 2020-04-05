@@ -24,6 +24,6 @@ Based on that, we can determine all the answers and set new password :
 
 ![5](https://user-images.githubusercontent.com/62826765/77845613-2bb5ca80-71a8-11ea-9dbd-31238bf48ba7.png)
 
-And BOOOOOOM !!
+And BOOOOOM !!
 
 gigem{t1ck_t0ck_toCk_t111ck_tiCK_tockk}
