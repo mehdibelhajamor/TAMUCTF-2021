@@ -10,7 +10,7 @@ We go back to the title, Sigma's symbol is the symbol of sum that we use in Math
 
 We do 208-103 = 105 which is the ASCII of "i" and 311-208 = 103 which is the ASCII of "g" ...
 
-So we write a script:
+So we write a script :
 
 ```python
 sigma = [103,208,311,412,521,644,754,805,923,974,1088,1183,1284,1402,1520,1571,1685,1780,1894,1942,1991,2099,
