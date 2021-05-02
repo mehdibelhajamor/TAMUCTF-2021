@@ -1,2 +1,2 @@
 # TAMUctf-Writeups
-Hope you enjoy my Writeups ^_^
+Hope you enjoy my Writeups ^^
